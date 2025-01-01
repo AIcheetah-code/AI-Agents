@@ -1,7 +1,12 @@
 # Financial Analysis Multi-Agent System
 
 ## 🚀 Overview
-A sophisticated multi-agent system built using Phi Framework that combines web search capabilities with financial analysis tools. The system utilizes Groq's LLM models to provide comprehensive market insights and financial analysis.
+A sophisticated multi-agent system built using Phidata Framework that combines web search capabilities with financial analysis tools. The system utilizes Groq's LLM models to provide comprehensive market insights and financial analysis.
+
+## WorkFlow
+
+![Screenshot 2025-01-01 141612](https://github.com/user-attachments/assets/0af2a2c1-37d1-4f57-8755-58768c007e98)
+
 
 ## 🌟 Features
 
@@ -29,7 +34,7 @@ A sophisticated multi-agent system built using Phi Framework that combines web s
 ## 🛠️ Technical Stack
 - **Language**: Python
 - **LLM Model**: Groq (llama3-groq-70B-8192-tool-use-preview)
-- **Framework**: Phi Agent Framework
+- **Framework**: Phidata Framework
 - **Tools Integration**:
   - YFinance (Financial data)
   - DuckDuckGo (Web search)
@@ -37,13 +42,13 @@ A sophisticated multi-agent system built using Phi Framework that combines web s
 ## 📋 Prerequisites
 - Python 3.8+
 - Groq API key
-- Required Python packages (phi-framework, groq, python-dotenv)
+- Required Python packages (phidata, python-dotenv, yfinance, packaging, duckduckgo-search,groq)
 
 ## 🔧 Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/financial-analysis-agent.git
+git clone https://github.com/AIcheetah-code/AI-Agents/tree/main/Financial-agent
 cd financial-analysis-agent
 ```
 
@@ -94,10 +99,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👥 Authors
-- Your Name (@yourgithubhandle)
 
 ## 🙏 Acknowledgments
 - Phi Framework team
 - Groq LLM team
-- YFinance and DuckDuckGo API providers
