@@ -12,7 +12,7 @@ st.title("AI Startup Trend Analysis Agent 📈")
 st.caption("Get the latest trend analysis and startup opportunities based on your topic of interest in a click!.")
 
 topic = st.text_input("Enter the area of interest for your Startup:")
-groq_api_key = "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"
+groq_api_key = "your_groq_api_key"
 
 if st.button("Generate Analysis"):
     if not groq_api_key:
