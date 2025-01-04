@@ -1,0 +1,6 @@
+streamlit 
+phidata
+google-search-results 
+newspaper4k 
+groq
+duckduckgo-search
