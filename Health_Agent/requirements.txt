@@ -1,4 +1,3 @@
 phidata 
 streamlit
 google-generativeai
-AIzaSyDYUsDe6E6AURmBct0V3HITuKbleYNSQjA
